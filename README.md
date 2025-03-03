@@ -21,3 +21,6 @@ A repository used to finish the project about Intelligent rescue competition in 
 
 3.Sustaining_inference_video.py调用服务端socket网络流(Socket.py文件), 显示实时推理结果; gradio_page.py用于本地端接收回传信息
 
+
+建模文件（.step文件）
+3dmodels：用于3D打印装配
