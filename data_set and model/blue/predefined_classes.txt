@@ -1,0 +1,11 @@
+blue
+blue_safe
+yellow
+yellow_safe
+black
+black_safe
+block_picked
+safety_blue
+enter_blue
+enter_yellow
+enter_black
